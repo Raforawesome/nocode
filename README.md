@@ -20,7 +20,7 @@ The possibilities are endless.
 
 ### Building the Application
 
-Now that you have not done anything it's time to build your application:
+Now that you have not done anything, it's time to build your application:
 
 ```
 
@@ -34,7 +34,7 @@ Yep. That's it. You should see the following output:
 
 ### Deploying
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+While you still have not done anything, it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
 
 ```
 
